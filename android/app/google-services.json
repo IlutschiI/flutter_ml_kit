@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "599250515448",
+    "firebase_url": "https://ml-kit-flutter-a51b4.firebaseio.com",
+    "project_id": "ml-kit-flutter-a51b4",
+    "storage_bucket": "ml-kit-flutter-a51b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599250515448:android:eaf8643a0cddb6a2",
+        "android_client_info": {
+          "package_name": "at.wickenhauser.ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599250515448-2cl8mvesmm7lmq62e2sfmkfbepajjn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA91Rbp3m71pAq2B_3AnZZkgg04hlYWj9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599250515448-2cl8mvesmm7lmq62e2sfmkfbepajjn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599250515448:android:f7e629d326cb1677",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ml_kit_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599250515448-2cl8mvesmm7lmq62e2sfmkfbepajjn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA91Rbp3m71pAq2B_3AnZZkgg04hlYWj9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599250515448-2cl8mvesmm7lmq62e2sfmkfbepajjn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599250515448:android:3df6873bd43dabc6",
+        "android_client_info": {
+          "package_name": "com.example.ml_kit_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599250515448-2cl8mvesmm7lmq62e2sfmkfbepajjn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA91Rbp3m71pAq2B_3AnZZkgg04hlYWj9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599250515448-2cl8mvesmm7lmq62e2sfmkfbepajjn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
